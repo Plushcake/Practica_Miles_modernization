@@ -7,3 +7,5 @@ public class BonusMilesService {
         return miles;
     }
 }
+
+// Исправлена глобальная почта в Гите.
